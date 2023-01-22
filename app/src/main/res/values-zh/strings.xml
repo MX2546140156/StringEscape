@@ -1,0 +1,21 @@
+<resources>
+    <string name="mx0000">字符串转义</string>
+    <string name="mx0001">转义</string>
+    <string name="mx0002">反转义</string>
+    <string name="mx0003">简单转义</string>
+    <string name="mx0004">高级转义（包括换行等）</string>
+    <string name="mx0005">高级转义（XML）</string>
+    <string name="mx0006">这里是结果</string>
+    <string name="mx0007">复制结果</string>
+    <string name="mx0008">没有结果！</string>
+    <string name="mx0009">复制失败！</string>
+    <string name="mx000a">请输入要转义或反转义的文本</string>
+    <string name="mx000b">粘贴</string>
+    <string name="mx000c">粘贴失败！</string>
+    <string name="mx000d">复制成功！</string>
+    <string name="mx000e">关于</string>
+    <string name="mx000f">退出</string>
+    <string name="mx0010">本隐私政策最后于20230123更新，请花一些时间来熟悉该软件的隐私政策，如果您有任何问题，请联系开发者。\n\n<font size="25">关于开发者</font>\nMX、明兴、MX2546140156（以下简称“开发者”或“我们”）均属于个人非企业开发者，开发者非常重视您的隐私。本隐私政策在制定时充分考虑到您的需求。\n\n<font size="25">关于隐私信息</font>\n由于我们的软件不存在任何权限请求，固无法获取您的隐私信息，请您在使用过程中放心。 \n最后，我们希望为您带来最好的体验。如果您对本隐私政策中描述的数据处理实践有任何疑问，请通过关于的联系方式联系，以便处理您的特殊需求。我们很高兴收到您的反馈。 </string>
+    <string name="mx0011">错误：\n</string>
+
+</resources>

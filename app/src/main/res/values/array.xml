@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mx0000">
+        <item>@string/mx0003</item>
+        <item>@string/mx0004</item>
+        <item>@string/mx0005</item>
+    </string-array>
+</resources>

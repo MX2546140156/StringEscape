@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:name="mx.StringEscape.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/mx0000"
+        android:label="@string/mx0000"
+        android:roundIcon="@mipmap/mx0001"
+        android:supportsRtl="true"
+        android:theme="@style/mx0000">
+
+        <activity
+            android:name="mx.StringEscape.MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustUnspecified">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="mx.StringEscape.CrashHandler$CrashActiviy" />
+    </application>
+
+</manifest>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="mx0000">String Escape</string>
+    <string name="mx0001">Escape</string>
+    <string name="mx0002">UnEscape</string>
+    <string name="mx0003">Simple Escape</string>
+    <string name="mx0004">EscapePro(Contains line breaks)</string>
+    <string name="mx0005">EscapePro(XML)</string>
+    <string name="mx0006">Here is the result</string>
+    <string name="mx0007">Copy Result</string>
+    <string name="mx0008">No Results!</string>
+    <string name="mx0009">Copy Failed!</string>
+    <string name="mx000a">Enter the text that needs to be escaped or unescaped.</string>
+    <string name="mx000b">Paste</string>
+    <string name="mx000c">Paste failed!</string>
+    <string name="mx000d">Copied!</string>
+    <string name="mx000e">About</string>
+    <string name="mx000f">Exit</string>
+    <string name="mx0010">This Privacy Policy was last updated 20230123, please take some time to familiarize yourself with the privacy policy of the software and contact the developer if you have any questions. \n\n<font size="25">About</font> \ndevelopersn MX, Mingxing, MX2546140156 (hereinafter referred to as \"developers\" or \"we\") are all individual non-enterprise developers, and developers take your privacy very seriously. This Privacy Policy has been developed with your needs in mind. \n\n<font size="25">About privacy</font> \ninformationnSince our software does not have any permission requests, it is impossible to obtain your private information, please rest assured during use. Finally, we want to give you the best experience. If you have any questions about the data processing practices described in this Privacy Policy, please contact us using the contact details on in order to process your particular needs. We are happy to receive your feedback. </string>
+    <string name="mx0011">Error :\n</string>
+
+</resources>

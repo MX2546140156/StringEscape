@@ -1,0 +1,51 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    signingConfigs {
+        release {
+            storeFile file('../mx.jks')
+            storePassword 'mx_2546140156'
+            keyAlias 'mx'
+            keyPassword 'mx_2546140156'
+            v1SigningEnabled true
+            v2SigningEnabled true
+            //v3SigningEnabled true
+        }
+    }
+    namespace 'mx.StringEscape'
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "mx.StringEscape"
+        minSdk 16
+        minSdkVersion 16
+        targetSdkVersion 32
+        targetSdk 32
+        versionCode 1
+        versionName "1.0"
+
+        //testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildToolsVersion '30.0.3'
+}
+
+dependencies {
+
+}
