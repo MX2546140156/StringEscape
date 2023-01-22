@@ -1,0 +1,2 @@
+# StringEscape
+String escaping can help you:<br>Simple escaping: Escape special strings, such as "." Convert to "\\.";<br>Special escaping is divided into two forms: "Pro" and "XML", and the advanced is to add quotation marks and newline characters on the basis of "simple escape", such as """ to "\\""; "XML" converts newline characters to "\\n", "@" to "\\@", and "&<>"'" characters for corresponding conversion
